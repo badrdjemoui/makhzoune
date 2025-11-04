@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\alimentBAll\alimentBAll\bin\Debug\alimentBAll.exe.config
+C:\Users\user\source\repos\alimentBAll\alimentBAll\bin\Debug\alimentBAll.exe
+C:\Users\user\source\repos\alimentBAll\alimentBAll\bin\Debug\alimentBAll.pdb
+C:\Users\user\source\repos\alimentBAll\alimentBAll\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\source\repos\alimentBAll\alimentBAll\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\source\repos\alimentBAll\alimentBAll\obj\Debug\AnimalFeedApp.FormMain.resources
+C:\Users\user\source\repos\alimentBAll\alimentBAll\obj\Debug\alimentBAll.Properties.Resources.resources
+C:\Users\user\source\repos\alimentBAll\alimentBAll\obj\Debug\alimentBAll.csproj.GenerateResource.cache
+C:\Users\user\source\repos\alimentBAll\alimentBAll\obj\Debug\alimentBAll.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\alimentBAll\alimentBAll\obj\Debug\alimentBAll.csproj.CopyComplete
+C:\Users\user\source\repos\alimentBAll\alimentBAll\obj\Debug\alimentBAll.exe
+C:\Users\user\source\repos\alimentBAll\alimentBAll\obj\Debug\alimentBAll.pdb
+C:\Users\user\source\repos\alimentBAll\alimentBAll\obj\Debug\alimentBAll.csproj.AssemblyReference.cache
